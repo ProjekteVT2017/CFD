@@ -1,0 +1,8 @@
+copy :  cp -r tutorials/incompressible/icoFoam/cavity . 
+remove:  comment: rm -r 0.*
+Befehlsfenster bleibt offen: &
+comments: begin:  */ 
+comments end: */
+comment begin: //
+comment end : //
+
