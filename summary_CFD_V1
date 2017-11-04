@@ -1,0 +1,24 @@
+
+
+Zusammenfassung CFD 
+
+Ziel der Übung ist das Verstädnis und Anwendung 
+
+Cavity Fall hat 3 fixedwalls und eine movingwall
+
+Datenstrukur des Basis Falls 
+
+"cavity"
+
+"0" "constant" "system"
+
+dimensionen in SI-Einheiten [kg m s K mol A cd ]
+
+Druck wird in der Einheit kinematischer Druck m^2/ s^-2 angegeben
+
+// "0" beinhaltet die Daten für den Druck (p) und Geschwindigkeit (U)
+
+Hier wird die Bedingung der Variabeln zum Zeitpunkt 0 angegeben. 
+unterschieden wird movingWall, fixedWalls und frontAndBack
+
+
